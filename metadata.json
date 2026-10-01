@@ -1,0 +1,6 @@
+{
+  "name": "StockSense - Nowshera Shopping Mall",
+  "description": "Professional responsive inventory management application for Nowshera Shopping Mall with role-based access for Managers and Staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
